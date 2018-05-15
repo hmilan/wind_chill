@@ -1,4 +1,4 @@
-# wind_chill
-uses formula from wikipedia.org to calculate windchill
 
-usefull when wind chill is missing from METAR data (pymetar)
+uses formula from wikipedia.org to calculate wind chill
+
+usefull when wind chill is missing from METAR data (pymetar XXXX)
